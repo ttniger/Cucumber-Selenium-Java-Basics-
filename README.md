@@ -1,7 +1,7 @@
 # Cucumber-Selenium-Java-Basics-
 
-To run this, you need to install Intellij IDEA
-You must have Java 8
+ To run this, you need to install Intellij IDEA
+ You must have Java 8
 
 # Running this project
 To run this you need to edit configuration
